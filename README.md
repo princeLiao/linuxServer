@@ -11,5 +11,8 @@
 ### node安装
 * https://blog.csdn.net/gaomengwang/article/details/77540429
 
+### ngnix安装
+* https://blog.csdn.net/zzq900503/article/details/72821081
+
 ### ngnix实现静态资源服务器
 * https://blog.csdn.net/zzq900503/article/details/72821081
