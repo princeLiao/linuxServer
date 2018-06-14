@@ -16,3 +16,7 @@
 
 ### ngnix实现静态资源服务器
 * https://blog.csdn.net/zzq900503/article/details/72821081
+
+### aspserver 快速搭建一个node服务
+* npm install -g aspserver (安装)
+* aspserver 8080  （启动服务）
